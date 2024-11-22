@@ -1,0 +1,25 @@
+body{
+     /* background-color: bisque;
+    background-image: url("../images/monkey.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment:scroll; */
+}
+h5{
+    font-size: 50px; font-family: 'Times New Roman';
+    color: red !important;
+
+}
+img[a]{
+    background-color: green;
+}
+div{
+    width: 150px;
+    height: 80px;
+    background-color: orange;
+    border-width: 5px 2px 3px ;
+    border-style: solid dotted dashed;
+    border-radius: 50px;
+    border-color: green;
+    margin: auto;
+}
